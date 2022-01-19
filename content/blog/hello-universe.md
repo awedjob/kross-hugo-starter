@@ -1,7 +1,6 @@
 +++
 date = 2022-01-15T06:00:00Z
 description = "This is my first post on the persistent, distributed web under the IPFS protocol!"
-draft = true
 image = "/images/cropped-paperlotusfield1.jpg"
 title = "Hello Universe"
 
